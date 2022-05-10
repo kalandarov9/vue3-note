@@ -1,15 +1,5 @@
 module.exports = {
   presets: [
-    '@vue/cli-plugin-babel/preset',
-    // 'requireConfigFile: false',
-  ],
-  // "parserOptions": {
-  //   "requireConfigFile": false,
-  // },
+    '@vue/cli-plugin-babel/preset'
+  ]
 }
-
-
-//  parser: '@babel/eslint',
-//   parserOptions: {
-//     requireConfigFile: false,
-//   },
